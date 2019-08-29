@@ -1,43 +1,39 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8" />
+***DELMAS Aurore***
 
-        <p><strong><em>DELMAS Aurore
+**15/11/1989** 
 
-           <strong>15/11/1989
+4 Bis, Rue du Pont Notre Dame
 
-            4 Bis, Rue du Pont Notre Dame
-            48000 <strong>MENDE
+48000 **MENDE** 
 
-            06-30-91-60-37
-          
-            <a href="mailto:aurore.delmas@hotmail.fr<a/<p>
-    </head>
+06-30-91-60-37
 
-    <body>
-        <p><strong><em>Parcours Scolaire
+[aurore.delmas@hotmail.fr](aurore.delmas@hotmail.fr)
 
-           <strong>2015 Titre Professionnel de Gestionaire de Paye <em>(non obtenu) à l'AFPA de Saint Chély D'Apcher
 
-           <strong>2013 BTS CGO à Lunel
+***Parcours Scolaire***
 
-           <strong>2009 BAC STG <em>option comptabilité à Mende
 
-           <strong><em>Expériences Professionnelles
+**2015** Titre Professionnel de Gestionaire de Paye *(non obtenu)* à l'AFPA de Saint Chély D'Apcher
 
-           <strong>2015 <em>Stage au Cabinet Tessier à Mende
+**2013** BTS CGO à Lunel
 
-           <strong>2014 Assistante Administrative à la Mairie de Mende
+**2009** BAC STG *option comptabilité* à Mende
 
-           <strong>2012 <em>Stage au Cabinet Tessier à Mende
 
-           <strong>2011 Assistante Administrative au SIE de Mende
+***Expériences Professionnelles***
 
-           <strong>2011 Assistante Administrative à la Banque de France de Mende
+**2015** *Stage* au Cabinet Tessier à Mende
 
-           <strong>2010 <em>Stage à Sud Expert 48 à Mende
+**2014** Assistante Administrative à la Mairie de Mende
 
-           <strong>209 <em>Stage à l'ALAD de Mende
-    <body>
-<html>
+**2012** *Stage* au Cabinet Tessier à Mende
+
+**2011** Assistante Administrative au SIE de Mende
+
+**2011** Assistante Administrative à la Banque de France de Mende
+
+**2010** *Stage* à Sud Expert 48 à Mende
+
+**2009** *Stage* à l'ALAD de Mende
+
