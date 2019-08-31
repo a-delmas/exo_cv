@@ -1,4 +1,4 @@
-strong{
+strong {
     color: #853894;
     text-decoration: underline;
 }
@@ -7,16 +7,42 @@ body {
     background-color: yellow;
     color: red;
     font-family: "Times New Roman";
-    }
+}
 
-em{
+em {
     color: purple;
-    font-size: 16px;
+    font-size: 1em;
     font-family:"Comic Sans MS";
     font-weight: bold;
-  }
+}
 
-:any-link{
+:any-link {
     color: blue;
     font-weight: bold;
-         }
+}
+
+.pas-puces {
+    list-style-type: none;
+}
+
+#photo {
+    height: 50px;
+    width: 50px;
+    vertical-align:top;
+  }
+  
+.explication {
+    font-size: 0.8em;
+}
+
+.stage {
+    font-size: 0.9em;
+}
+
+.etat civil {
+    font-size: 1.6em;
+}
+
+.autre {
+    font-size: 0.9em;
+}
